@@ -1,0 +1,12 @@
+AJAX = Asynchronous JavaScript and XML
+CSS = Cascading Style Sheets
+HTML = Hyper Text Markup Language
+PHP = PHP Hypertext Preprocessor
+SQL = Structured Query Language
+SVG = Scalable Vector Graphics
+XML = EXtensible Markup Language
+JS = JavaScript
+
+
+w - Write into the file or create a file if not exists & Remove all the existing content and add the new content
+a - Write into the file And appends the new content with the old one
